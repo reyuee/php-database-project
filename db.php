@@ -1,4 +1,5 @@
 <?php
+// Anslutning till databasen practice via PDO (#1)
 require 'config.php';
 
 try {
